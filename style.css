@@ -11,6 +11,6 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
-    overflow: hidden; /* no scroll bars to be shown by default
+    overflow: hidden; /* no scroll bars to be shown by defaulth */
     margin: 0; /* get rid of margin*/ 
   }
